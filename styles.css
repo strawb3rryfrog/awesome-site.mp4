@@ -1,0 +1,21 @@
+body {
+    font-family: Comic Sans MS, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #faf7f7;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #b00505;
+    text-align: center;
+}
+
+h1 {
+    color: #dae2f0;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 200px;
+}
